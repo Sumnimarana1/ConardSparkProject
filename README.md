@@ -43,5 +43,5 @@ The results I obtained from the previous commands are as follows:
 The most frequently used word is "the" and the 10th most frequently used word was "my." The corresponding numbers equivalate to the number of times that word appears in the text. "The" is used 482 times.
 
 Using this data, I created the following cart to visualize the top 10 most frequenty used words.
-![Animal Toss Program](https://raw.githubusercontent.com/profcase/sphero-edu-getting-started/master/AnimalToss.PNG "Animal Toss Program")
+![Word Count Chart](ConardSparkProject/images/Chart.JPG "Word Count Chart")
 
